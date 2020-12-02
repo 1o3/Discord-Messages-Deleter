@@ -1,2 +1,5 @@
-# Discord-Messages-Deleter
-Discord Messages Deleter
+
+
+Please put token in a Token.json
+
+Command detele .purge the number
